@@ -1,0 +1,4 @@
+#Fri Feb 15 22:44:19 PST 2019
+base.0=/Users/eminguyen/Code/hack-uci-mark-ii/mARk/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

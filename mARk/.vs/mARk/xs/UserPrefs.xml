@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{657D560E-4C15-ED94-F0C3-42085E06337F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Questions/Scripts/QuestionBehavior.cs">
+    <Files>
+      <File FileName="Assets/Questions/Scripts/QuestionBehavior.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mARk" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Questions" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="QuestionBehavior.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
