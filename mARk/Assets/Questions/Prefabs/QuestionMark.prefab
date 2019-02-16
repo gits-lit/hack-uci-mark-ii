@@ -1,5 +1,19 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!136 &2482781500402580696
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2394984811571335806}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.03093901
+  m_Height: 30.24241
+  m_Direction: 1
+  m_Center: {x: 0.3852859, y: -8.440807, z: 0.00001123089}
 --- !u!114 &4991112771938321527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22,19 +36,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
       propertyPath: m_Name
-      value: Question Mark Block Variant
+      value: QuestionMark
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
+      propertyPath: m_TagString
+      value: QuestionMark
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.74
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.64
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fe4da46a4f22a4fd19625661df5e8b15, type: 3}
       propertyPath: m_LocalRotation.x
